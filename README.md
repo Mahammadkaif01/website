@@ -1,2 +1,2 @@
-# website
+# Amazon clone
 WebProject Description
